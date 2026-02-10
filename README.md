@@ -123,6 +123,3 @@ AI tools were used to assist in structuring the data processing pipeline and imp
 
 This project is intended for academic use only.
 
----
-
-© 2026 | Bioinformatics Project Team
